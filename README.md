@@ -31,8 +31,6 @@ This is a challenge from Frontend Mentor. It helps you:
 ![](/images/huddle_1.jpg)
 ![](/images/huddle_2.jpg)
 ![](/images/Screenshot_1.png)
-![](/images/Screenshot_2.png)
-![](/images/Screenshot_3.png)
 
 ### Links
 
@@ -62,5 +60,6 @@ I learned and practiced Flexbox, a very useful tool.
 
 ## Acknowledgments
 
+Web Coach (link below)
 https://www.youtube.com/watch?v=jtJnRPGNbH0 - a very good video; helped me clarify the layout and media query commands
 
