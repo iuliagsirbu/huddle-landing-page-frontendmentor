@@ -56,7 +56,7 @@ I learned and practiced Flexbox, a very useful tool.
 
 ## Author
 
-- Frontend Mentor - @iuliagsirbu
+- Frontend Mentor - [@iuliagsirbu](https://www.frontendmentor.io/profile/iuliagsirbu)
 
 ## Acknowledgments
 
