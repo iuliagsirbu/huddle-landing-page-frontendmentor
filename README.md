@@ -34,7 +34,7 @@ This is a challenge from Frontend Mentor. It helps you:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-using-flexbox-5TPK9Sgk9x
 - Live Site URL: https://iuliagsirbu.github.io/huddle-landing-page-frontendmentor/
 ## My process
 
